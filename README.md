@@ -10,6 +10,8 @@ In short, our project includes classifying news as real or fake. For a number of
 **DATASET**:
 LIAR plus
 
+[Dataset link](https://github.com/VANSHIKA952/FAKE_NEWS_DETECTION/tree/main/Dataset/)
+
 Below are the columns used  in this project:
 
 column 1:author 
